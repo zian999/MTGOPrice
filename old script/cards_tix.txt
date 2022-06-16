@@ -1,0 +1,14 @@
+2021-02-10 23:41:36.658324	m21	0.03	Tormod's Crypt
+2021-02-10 23:41:36.658324	mm3	0.02	Crumbling Necropolis
+2021-02-10 23:41:36.658324	7ed	0.03	Memory Lapse
+2021-02-10 23:41:36.658324	2xm	0.02	Invigorate
+2021-02-10 23:41:36.658324	grn	0.02	Deafening Clarion
+2021-02-10 23:41:36.658324	grn	0.02	Ritual of Soot
+2021-02-10 23:41:36.658324	rix	0.02	Pirate's Pillage
+2021-02-11 08:39:38.802586	m21	0.03	Tormod's Crypt
+2021-02-11 08:39:38.802586	mm3	0.02	Crumbling Necropolis
+2021-02-11 08:39:38.802586	7ed	0.03	Memory Lapse
+2021-02-11 08:39:38.802586	2xm	0.02	Invigorate
+2021-02-11 08:39:38.802586	grn	0.02	Deafening Clarion
+2021-02-11 08:39:38.802586	grn	0.02	Ritual of Soot
+2021-02-11 08:39:38.802586	rix	0.02	Pirate's Pillage

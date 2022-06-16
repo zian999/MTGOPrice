@@ -1,0 +1,63 @@
+Name,Set,CardNo,isFoil,Quantity,Price_TIX,Expansion,PurchaseDate
+Leyline of Lifeforce,GPT,90,N,4,0.01,0.04,2022-03-23
+Fauna Shaman,M11,172,N,4,0.01,0.04,2022-03-23
+Leyline of Anticipation,M11,61,N,4,0.01,0.04,2021-07-07
+Smoldering Marsh,BFZ,247,N,4,0.02,0.08,2021-07-07
+"Sorin, Vengeful Bloodlord",WAR,217,N,4,0.02,0.08,2021-07-07
+Drowned Catacomb,M12,226,N,4,0.02,0.08,2021-07-06
+"Obzedat, Ghost Council",GTC,182,N,4,0.02,0.08,2021-06-10
+Guttural Response,SHM,208,N,4,0.02,0.08,2021-06-06
+Languish,ORI,105,N,4,0.02,0.08,2021-06-04
+Mindslaver,SOM,176,N,4,0.02,0.08,2021-06-04
+Mirran Crusader,MBS,14,N,4,0.02,0.08,2021-06-04
+Parallax Wave,VMA,37,N,4,0.02,0.08,2021-06-04
+Phyrexia's Core,NPH,165,N,4,0.02,0.08,2021-06-04
+Reckless Bushwhacker,OGW,116,N,4,0.02,0.08,2021-06-04
+Sphinx of the Final Word,OGW,63,N,4,0.02,0.08,2021-06-04
+Sulfur Falls,ISD,248,N,4,0.02,0.08,2021-06-04
+Temple of Epiphany,M20,253,N,4,0.02,0.08,2021-06-04
+"Tibalt, the Fiend-Blooded",AVR,161,N,4,0.01,0.04,2021-06-04
+The Scorpion God,HOU,146,N,2,0.02,0.04,2021-05-25
+Blade Splicer,MM3,3,N,4,0.02,0.08,2021-05-16
+Canopy Vista,BFZ,234,N,4,0.03,0.12,2021-05-16
+Jadelight Ranger,RIX,136,N,4,0.02,0.08,2021-05-16
+"Sarulf, Realm Eater",KHM,228,N,4,0.01,0.04,2021-05-16
+Shriekmaw,LRW,139,N,1,0.02,0.02,2021-05-16
+Steel Hellkite,SOM,205,N,4,0.01,0.04,2021-05-16
+The Raven's Warning,KHM,227,N,4,0.01,0.04,2021-05-16
+Venerated Loxodon,GRN,30,N,1,0.02,0.02,2021-05-16
+Irencrag Pyromancer,ELD,128,N,4,0.02,0.08,2021-05-15
+"Reki, the History of Kamigawa",SOK,142,N,4,0.01,0.04,2021-05-11
+Rhys the Redeemed,SHM,237,N,4,0.01,0.04,2021-05-11
+"Selvala, Explorer Returned",VMA,260,N,4,0.02,0.08,2021-05-11
+Cleansing Nova,M19,9,N,4,0.02,0.08,2021-05-11
+"Gideon, Champion of Justice",GTC,13,N,4,0.02,0.08,2021-05-11
+"Kataki, War's Wage",SOK,14,N,4,0.02,0.08,2021-05-11
+Liliana Vess,LRW,121,N,4,0.02,0.08,2021-05-11
+Llanowar Wastes,ORI,248,N,4,0.02,0.08,2021-05-11
+Rise/Fall,DIS,156,N,4,0.02,0.08,2021-05-11
+"Sarkhan, the Dragonspeaker",KTK,119,N,4,0.02,0.08,2021-05-11
+Wingmate Roc,KTK,31,N,4,0.02,0.08,2021-05-11
+Elvish Champion,9ED,238,N,4,0.01,0.04,2021-05-10
+Obelisk of Urd,M15,222,N,4,0.01,0.04,2021-05-10
+Snow-Covered Forest,KHM,284,N,15,0.01,0.15,2021-05-05
+Swans of Bryn Argoll,MM2,199,N,4,0.01,0.04,2021-05-04
+Birds of Paradise,SLD,92,N,4,0.13,0.52,2021-05-04
+Gilded Goose,SLD,93,N,4,0.13,0.52,2021-05-04
+Snow-Covered Swamp,KHM,280,N,15,0.01,0.15,2021-05-04
+Ajani Goldmane,M10,1,N,4,0.01,0.04,2021-05-03
+Ajani Steadfast,SLD,87,N,4,0.02,0.08,2021-05-03
+"Chandra, the Firebrand",M13,123,N,4,0.01,0.04,2021-05-03
+"Huatli, Warrior Poet",XLN,224,N,1,0.02,0.02,2021-05-03
+Tezzeret the Schemer,AER,137,N,4,0.02,0.08,2021-05-03
+Snow-Covered Mountain,KHM,283,N,15,0.01,0.15,2021-05-02
+Snow-Covered Plains,KHM,277,N,5,0.01,0.05,2021-05-02
+Saw It Coming,KHM,76,N,4,0.01,0.04,2021-05-02
+Timely Reinforcements,M12,40,N,4,0.02,0.08,2021-05-02
+Death Baron,ALA,70,N,4,0.01,0.04,2021-05-02
+Treasure Map,XLN,250,N,4,0.03,0.12,2021-05-02
+Opalescence,UDS,13,N,4,0.06,0.24,2021-04-27
+"Kataki, War's Wage",SOK,14,N,-4,1.48,-5.92,2022-03-31
+Canopy Vista,BFZ,234,N,-4,0.17,-0.68,2022-03-31
+"Adeliz, the Cinder Wind",DOM,190,Y,1,0.01,0.01,2022-03-31
+Riptide Laboratory,MH2,303,N,4,0.01,0.04,2022-03-31
